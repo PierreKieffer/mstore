@@ -1,4 +1,7 @@
 # mstore 
+
+![Go](https://github.com/PierreKieffer/mstore/workflows/Go/badge.svg)
+
 In-memory storage management system for embedded data storage.
 
 As an example of application, mstore can be used as the core of a cache system, or simply as an embedded database.
