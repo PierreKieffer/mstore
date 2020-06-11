@@ -6,6 +6,8 @@ As an example of application, mstore can be used as the core of a cache system, 
 mstore uses an indexing system to optimize operations performance.
 mstore can manage multiple documents on the same index, but it is not possible to have several documents with the same key (the key is unique and is used to reference a document).
 
+mstore provides atomicity and isolation in ACID terminology.
+
 						      +-------+             data memory slot
 						      |       |            +--------+-----------+
 					       index  |       |            |        |           |
