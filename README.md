@@ -1,5 +1,10 @@
 # mstore 
 
+<p align="center">
+  <img src="logo.png">
+</p>
+
+
 ![Go](https://github.com/PierreKieffer/mstore/workflows/Go/badge.svg)
 
 In-memory storage management system for embedded data storage.
